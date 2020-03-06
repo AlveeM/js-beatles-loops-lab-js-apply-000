@@ -7,3 +7,9 @@ function theBeatlesPlay(arrMusicians, arrInstruments) {
   }
   return result;
 }
+
+function johnLennonFacts(arrFacts) {
+  let facts = [];
+  while()
+  return facts;
+}
